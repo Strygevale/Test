@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\bin\Debug\TestMenu.exe.config
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.Form1.resources
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.Properties.Resources.resources
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.exe
+C:\Users\Admin\Desktop\MYPROJECT\TestMenu\TestMenu\TestMenu\obj\Debug\TestMenu.pdb
